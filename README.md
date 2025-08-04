@@ -4,13 +4,13 @@
 
 This task involves setting up a local PHP development environment and configuring version control with Git and GitHub.
 
-## 🔧 Tools Used
+##  Tools Used
 - XAMPP (Apache + MySQL)
 - PHP
 - Visual Studio Code
 - Git & GitHub
 
-## ✅ What I Did
+##  What I Did
 - Installed and configured XAMPP for local development
 - Verified setup via `http://localhost`
 - Installed VS Code with PHP-related extensions
@@ -19,6 +19,6 @@ This task involves setting up a local PHP development environment and configurin
 - Pushed the code to GitHub:  
   [GitHub Repo](https://github.com/sanjana861/apex-internship-task)
 
-## 📁 Project Files
+##  Project Files
 - `index.php`: Basic PHP file for testing
 - `README.md`: Task documentation
